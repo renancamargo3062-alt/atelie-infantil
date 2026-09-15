@@ -286,7 +286,7 @@ footer {
 /* Seção de Apresentação com a Foto da sua Mãe ao Fundo */
 body {
     /* 1. Aqui você coloca o caminho da foto e uma cor escura/clara por cima para dar transparência */
-    background: linear-gradient(rgba(255, 255, 255, 0.60), rgba(255, 255, 255, 0.60)), url('imagens/renata2.jpg.jpeg');
+    background: linear-gradient(rgba(255, 255, 255, 0.60), rgba(255, 255, 255, 0.60)), url('renata2.jpg.jpeg');
     
     /* 2. Configurações para a imagem cobrir o espaço direitinho sem distorcer */
     background-size: cover;
